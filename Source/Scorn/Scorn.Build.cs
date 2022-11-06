@@ -14,6 +14,7 @@ public class Scorn : ModuleRules {
             "DeveloperSettings",
             "Engine",
             "FMODStudio",
+            "GameplayTasks",
             "InputCore",
             "MoviePlayer",
             "MovieScene",

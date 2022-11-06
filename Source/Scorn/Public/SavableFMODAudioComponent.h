@@ -3,6 +3,8 @@
 #include "FMODAudioComponent.h"
 #include "SavableFMODAudioComponent.generated.h"
 
+UDELEGATE(BlueprintCallable) DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnComponentLoad);
+
 UCLASS(Blueprintable, ClassGroup=Custom, meta=(BlueprintSpawnableComponent))
 class SCORN_API USavableFMODAudioComponent : public UFMODAudioComponent {
     GENERATED_BODY()

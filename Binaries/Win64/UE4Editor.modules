@@ -1,0 +1,9 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"Scorn": "UE4Editor-Scorn.dll",
+		"ScornAudioModule": "UE4Editor-ScornAudioModule.dll",
+		"ScornLoadingScreen": "UE4Editor-ScornLoadingScreen.dll"
+	}
+}

@@ -3,7 +3,6 @@
 #include "FMODBlueprintStatics.h"
 #include "UObject/NoExportTypes.h"
 #include "Engine/EngineTypes.h"
-#include "FMODEventInstance.h"
 #include "UObject/NoExportTypes.h"
 #include "EFMODEventPlaybackState.h"
 #include "AttenuationRange.h"

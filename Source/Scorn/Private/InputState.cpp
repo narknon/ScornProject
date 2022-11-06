@@ -1,4 +1,4 @@
-#include "InputState.h"
+#include "ScornInputState.h"
 
 FInputState::FInputState() {
 }

@@ -1,7 +1,7 @@
 #pragma once
 #include "CoreMinimal.h"
 #include "Templates/SubclassOf.h"
-#include "FMODEventInstance.h"
+
 #include "Engine/GameInstance.h"
 #include "Engine/EngineTypes.h"
 #include "EScornGameStats.h"
@@ -10,6 +10,7 @@
 #include "EScornNewGamePreset.h"
 #include "ELoadingScreenState.h"
 #include "EScornSubLevel.h"
+#include "FMODBlueprintStatics.h"
 #include "AbstractScornGameInstance.generated.h"
 
 class AWorldSectionManager;

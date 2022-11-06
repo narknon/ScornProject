@@ -62,7 +62,7 @@ public:
     void OnInitInputSystem();
     
     UFUNCTION(BlueprintImplementableEvent)
-    void OnAxisInputChange(TEnumAsByte<EAxisDirection> AxisDirection, float Value);
+    void OnAxisInputChange(EAxisDirection AxisDirection, float Value);
     
     UFUNCTION(BlueprintCallable)
     void LoadAndSetDefaultAxisMappingsByDeviceType(TEnumAsByte<EScornDeviceInputType> ScornDeviceInputType);

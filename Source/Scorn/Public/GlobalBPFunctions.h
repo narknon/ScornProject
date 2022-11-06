@@ -6,8 +6,8 @@
 #include "ELoadingScreenType.h"
 #include "SkyLightKeyProps.h"
 #include "ExponentialHeightFogKeyProps.h"
+#include "FMODBlueprintStatics.h"
 #include "UObject/NoExportTypes.h"
-#include "FMODEventInstance.h"
 #include "UObject/NoExportTypes.h"
 #include "GlobalBPFunctions.generated.h"
 

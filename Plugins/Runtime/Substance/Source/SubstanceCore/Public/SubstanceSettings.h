@@ -7,7 +7,7 @@
 
 class UMaterialInterface;
 
-UCLASS(Blueprintable, DefaultConfig)
+UCLASS(Blueprintable, DefaultConfig, Config=Editor)
 class SUBSTANCECORE_API USubstanceSettings : public UObject {
     GENERATED_BODY()
 public:

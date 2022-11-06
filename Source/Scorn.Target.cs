@@ -1,8 +1,8 @@
 ﻿using UnrealBuildTool;
 
-public class ScornEditorTarget : TargetRules {
-	public ScornEditorTarget(TargetInfo Target) : base(Target) {
-		Type = TargetType.Editor;
+public class ScornTarget : TargetRules {
+	public ScornTarget(TargetInfo Target) : base(Target) {
+		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.AddRange(new string[] {
 			"Scorn",
