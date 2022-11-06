@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "1.7.1",
+	"FriendlyName": "PortalSystem",
+	"Description": "Dynamic Lighting Portal System (Performance Booster)",
+	"Category": "Performance",
+	"CreatedBy": "DreamPowered",
+	"CreatedByURL": "https://twitter.com/firefly74940",
+	"DocsURL": "http://firefly.dream-powered.com/PortalSystemDoc/index.html",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d65434d7ef6744ca9604b453decf0473",
+	"SupportURL": "mailto:marketplace.support@dream-powered.com",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PortalSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
