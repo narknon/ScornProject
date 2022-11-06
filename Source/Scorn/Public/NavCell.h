@@ -24,3 +24,5 @@ public:
     SCORN_API FNavCell();
 };
 
+
+FORCEINLINE uint32 GetTypeHash(const FNavCell) { return 0; };

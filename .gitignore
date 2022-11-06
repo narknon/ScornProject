@@ -147,3 +147,8 @@ obj/
 
 # Explcitly ignore Mac DS_Store files, regardless of where they are
 .DS_Store
+Binaries/Win64/Scorn.exe
+Binaries/Win64/Scorn.exp
+Binaries/Win64/Scorn.lib
+Binaries/Win64/Scorn.target
+WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
